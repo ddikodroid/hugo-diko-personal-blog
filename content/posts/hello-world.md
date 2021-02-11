@@ -4,7 +4,7 @@ date: 2021-02-10T00:53:23+07:00
 draft: false
 ---
 
-<h2>Perkenalan👋</h2>
+## Perkenalan👋
 Halo,
 Diko di sini dan ini adalah post pertama di blog yang baru saja dibuat. Mumpung ada domain gratisan dan baru tau tentang Hugo, akhirnya iseng buat nyobain bikin blog pakai Hugo. Sekalian sambil belajar cara nulis pakai markdown. 
 
